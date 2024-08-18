@@ -84,4 +84,4 @@ yarn dev
 
 
 # Slides
-![Slides](./slides/PillPoeBot.pdf)
+[Slides](./slides/PillPoeBot.pdf)
