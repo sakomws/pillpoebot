@@ -1,0 +1,14 @@
+*source
+*.env
+*.log
+*.pyc
+*.devcontainer
+*.vscode
+*.DS_Store
+*.idea
+*venv
+*symptomps
+*devcontainer.json
+*node_modules
+*__pycache__
+*.txt
