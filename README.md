@@ -22,8 +22,7 @@ The system is composed of the following key components:
 ### Vector Databases
 
 - **Weaviate:** A vector database for storing and retrieving medical data using embeddings.
-- **Vectara:** Complementary vector database for semantic search and complex data queries.
-
+  
 ### Backend (Python/Modal)
 
 - The core processing unit, written in Python, handles requests from the UI and manages interactions between services, databases, and APIs. It is scalable and efficient, potentially leveraging serverless architecture via Modal.
@@ -47,7 +46,7 @@ The system is composed of the following key components:
 ## Flow Summary
 
 1. **Data Collection:** Information from NLM, RxNorm, and ICD-10 is ingested into the system.
-2. **Indexing & Storage:** LLAMAIndex Cloud processes this data and stores it in vector databases (Weaviate and Vectara) for efficient retrieval.
+2. **Indexing & Storage:** LLAMAIndex Cloud processes this data and stores it in vector database Weaviate for efficient retrieval.
 3. **Backend Processing:** The Python-based backend manages requests, coordinates with databases, and utilizes OpenAI for natural language understanding.
 4. **User Interaction:** Users interact with the system via the NextJS UI, inputting queries that the backend processes and returns relevant information.
 5. **Observability:** Phoenix/Observability tools monitor the system’s health and performance, ensuring reliability and efficiency.
