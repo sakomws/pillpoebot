@@ -1,8 +1,8 @@
 # PillPoe Bot
 
-This project won 2nd place at Poe Hackathon ORGANIZED BY AGI House on 17th Aug 2024.
+This project won 2nd place at Poe Hackathon ORGANIZED BY {AGI House](https://agihouse.org) on 17th Aug 2024.
 
-#poe #modal #weaviate #fireworks #llamaIndex #arize #hackpro_sako
+Hashtags: #poe #modal #weaviate #fireworks #llamaIndex #arize #hackpro_sako
 
 AI Assistant for Drug interactions.
 
