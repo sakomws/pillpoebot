@@ -1,5 +1,22 @@
 # PillPoe Bot
 
+This project won 2nd place at Poe Hackathon ORGANIZED BY AGI House on 17th Aug 2024.
+
+#poe #modal #fireworks #llamaIndex #arize #weaviate #hackpro_sako
+
+## Social Posts
+[Poe Linkedin Post](https://www.linkedin.com/posts/poe-platform_announcing-our-latest-hackathon-winners-activity-7233925102327754753-Kb7a)
+[Poe X Post](https://x.com/poe_platform/status/1828155999116763343)
+[Sako Linkedin Post](https://www.linkedin.com/posts/sakom_h26-poe-modal-activity-7231672585304821760-a8PF)
+
+[Demo](https://share.zight.com/p9uonyAl)
+[Winners interview(]https://share.zight.com/p9uonyAl)
+
+## Team
+[Ritu Raj Tiwari](https://www.linkedin.com/in/riturajtiwari)
+[Danielh Carranza](https://www.linkedin.com/in/danielhcarranza)
+[Sako M](https://www.linkedin.com/in/sakom)
+
 AI Assistant for Drug interactions.
 
 Using Natural Language input:
